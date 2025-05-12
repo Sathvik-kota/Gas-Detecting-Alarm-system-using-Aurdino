@@ -42,4 +42,9 @@ Resistor
 </li>
 </ul>
 
+# Images of requirements 
+![Screenshot 2025-05-13 002248](https://github.com/user-attachments/assets/895b4eab-3ffd-4e6f-a5fb-dfa81e4a3b2b)
+
+
+
 
