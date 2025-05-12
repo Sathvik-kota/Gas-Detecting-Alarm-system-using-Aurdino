@@ -45,6 +45,31 @@ Resistor
 # Components Images 
 ![Screenshot 2025-05-13 002248](https://github.com/user-attachments/assets/895b4eab-3ffd-4e6f-a5fb-dfa81e4a3b2b)
 
+# Working of the system
+<ul>
+<li>
+Firstly,  when the system is turned ON the green LED light is also turned ON stating the environment/room is safe right now. 
+</li>
+</ul>
+<ul>
+<li>
+An “ALL SAFE !! ALL CLEAR !!” message is displayed on the LCD display of the device.
+</li>
+</ul>
+<ul>
+<li>
+Then whenever the Gas Sensor MQ- 2 in this device detects a gas leaks or other emissions that can interface with a control systems the Green LED light turns OFF and a red LED light is turned ON. 
+</li>
+</ul>
+<ul>
+<li>
+As soon as this happens , the Piezo Speaker starts to buzz with a high tone beep and a message on the LCD is displayed  “ALERT !!! EVACUATE ASAP ! ”
+</li>
+</ul>
+
+
+
+
 
 
 
